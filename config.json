@@ -1,0 +1,43 @@
+{
+    "window": {
+        "width": 800,
+        "height": 600,
+        "title": "Snake Attack",
+        "fps": 60
+    },
+    "snake": {
+        "initial_length": 3,
+        "initial_speed": 3,
+        "speed_increase_per_level": 1,
+        "targets_before_speedup": 3,
+        "speed_increase_amount": 0.5,
+        "max_speed": 8
+    },
+    "scoring": {
+        "target_1_points": 10,
+        "target_2_points": 20,
+        "points_to_next_level": 100
+    },
+    "levels": [
+        {
+            "id": 1,
+            "name": "Desert Beginnings",
+            "background": "assets/images/background.png",
+            "snake_head": "assets/images/snake-head.png",
+            "snake_body": "assets/images/snake-body.png",
+            "targets": [
+                "assets/images/target-1.png",
+                "assets/images/target-2.png"
+            ],
+            "sounds": {
+                "background": "assets/sounds/bg.mp3",
+                "target_collect": "assets/sounds/target.mp3",
+                "direction_change": "assets/sounds/direction.mp3",
+                "game_over": "assets/sounds/gameover.mp3"
+            },
+            "wall_color": [139, 69, 19],
+            "target_spawn_rate": 3,
+            "required_score": 100
+        }
+    ]
+}
