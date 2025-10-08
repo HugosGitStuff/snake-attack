@@ -13,16 +13,16 @@ A fun and challenging snake game with multiple levels set in a desert theme.
 
 ## Installation
 
-Open VS Code
-Press Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows)
-Type "Python: Select Interpreter"
-Choose the Python interpreter from your new venv folder
-For future reference, whenever you clone this project to a new location:
-Create a new virtual environment: python3 -m venv venv
-Activate it: source venv/bin/activate (Mac/Linux) or .\venv\Scripts\activate (Windows)
-Install requirements: pip3 install -r requirements.txt
-Run the game: python3 main.py
-Let me know if you need any clarification or run into other issues!
+- Open VS Code
+- Press Cmd+Shift+P (Mac) or Ctrl+Shift+P (Windows)
+- Type "Python: Select Interpreter"
+- Choose the Python interpreter from your new venv folder
+- For future reference, whenever you clone this project to a new location:
+- Create a new virtual environment: python3 -m venv venv
+- Activate it: source venv/bin/activate (Mac/Linux) or .\venv\Scripts\activate (Windows)
+- Install requirements: pip3 install -r requirements.txt
+- Run the game: python3 main.py
+- Let me know if you need any clarification or run into other issues!
 
 ## How to Play
 
