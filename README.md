@@ -22,7 +22,6 @@ A fun and challenging snake game with multiple levels set in a desert theme.
 - Activate it: source venv/bin/activate (Mac/Linux) or .\venv\Scripts\activate (Windows)
 - Install requirements: pip3 install -r requirements.txt
 - Run the game: python3 main.py
-- Let me know if you need any clarification or run into other issues!
 
 ## How to Play
 
